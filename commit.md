@@ -1,1 +1,1 @@
-8 elements changed on 1/10/2018
+Return status for relationship on 1/22/2018
