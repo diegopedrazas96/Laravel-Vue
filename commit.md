@@ -1,1 +1,1 @@
-14 elements changed on 1/10/2018
+follow tutorial up to lesson-6 on 2/8/2018
