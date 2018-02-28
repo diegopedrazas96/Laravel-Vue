@@ -1,1 +1,1 @@
-Update readme.md on 2/16/2018
+Laravel scout installed on 2/23/2018
