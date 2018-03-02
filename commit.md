@@ -1,1 +1,1 @@
-Update readme.md on 2/16/2018
+follow tutorial up to lesson-6 on 2/7/2018
