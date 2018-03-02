@@ -1,1 +1,1 @@
-Update app.js as MyVuetable.vue was updated on 3/2/2018
+recompile on 2/21/2018
